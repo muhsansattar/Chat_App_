@@ -5,7 +5,7 @@
 Welcome to the Chat App project! This real-time chat application allows users to communicate seamlessly through an intuitive interface. Built with Vue.js and TypeScript on the frontend, and Node.js with Express on the backend, this app offers robust messaging features and efficient data management.
 
 ## Chat Room
-![Screenshot 2024-09-27 183817](https://github.com/user-attachments/assets/bb0489f2-40c4-4b10-99fc-fd7b1adde2c9)
+<img src="https://github.com/user-attachments/assets/bb0489f2-40c4-4b10-99fc-fd7b1adde2c9" alt="Chat Room" width="600"/>
 ## Login
 ![Screenshot 2024-09-27 183856](https://github.com/user-attachments/assets/e59cc989-45d2-435e-b035-cbdd749620af)
 
