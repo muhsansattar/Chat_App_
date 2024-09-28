@@ -1,4 +1,4 @@
-## My Web Project
+## My Project
 
 ## Chat App
 
