@@ -7,7 +7,7 @@ Welcome to the Chat App project! This real-time chat application allows users to
 ## Chat Room
 <img src="https://github.com/user-attachments/assets/bb0489f2-40c4-4b10-99fc-fd7b1adde2c9" alt="Chat Room" width="600"/>
 ## Login
-![Screenshot 2024-09-27 183856](https://github.com/user-attachments/assets/e59cc989-45d2-435e-b035-cbdd749620af)
+<img src="https://github.com/user-attachments/assets/e59cc989-45d2-435e-b035-cbdd749620af" alt="Chat Room" width="600"/>
 
 ## Features
 - Real-Time Messaging: Instant updates for conversations with WebSocket support.
